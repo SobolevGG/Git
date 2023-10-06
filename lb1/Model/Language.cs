@@ -16,7 +16,7 @@ namespace Model
         English,
 
         /// <summary>
-        /// Неизвестный язык
+        /// Неизвестный язык.
         /// </summary>
         Unknown
     }
